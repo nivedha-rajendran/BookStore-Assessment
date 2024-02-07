@@ -51,7 +51,7 @@ Payload : RequestBody
 Payload 
 ticketId  : 1
 
-### Fetch Ticket List By MailId (GET)  (GET)
+### Fetch Ticket List By MailId (GET)
 
 Payload 
 email : nivedha@gmail.com
